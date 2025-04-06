@@ -1,0 +1,17 @@
+lockfileVersion: '6.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+importers:
+
+  .: {}
+
+  packages/hooks: {}
+
+  play:
+    dependencies:
+      '@vue-chat-ui/hooks':
+        specifier: workspace:^
+        version: link:../packages/hooks

@@ -1,0 +1,13 @@
+{
+  "name": "vue-chat-ui",
+  "private": true,
+  "version": "0.1.0",
+  "description": "vue-chat-ui",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Aaron-zon",
+  "license": "ISC"
+}

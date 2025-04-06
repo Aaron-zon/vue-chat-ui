@@ -1,0 +1,11 @@
+{
+    "name": "@vue-chat-ui/play",
+    "version": "0.1.0",
+    "private": true,
+    "description": "vue-chat-ui hooks",
+    "author": "Aaron-zon",
+    "license": "ISC",
+    "dependencies": {
+        "@vue-chat-ui/hooks": "workspace:^"
+    }
+}
